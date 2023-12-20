@@ -1,2 +1,3 @@
 .env
-/Static/
+/static/
+/node_modules/
